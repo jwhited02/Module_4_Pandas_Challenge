@@ -1,0 +1,5 @@
+This analysis gives a comprehensive view of the relationship between schools, students, and their test scores. Through this analysis, we can see what types of school environments allow for higher test scores and therefore more successful students. Based off the analysis, here are two main conclusions I drew:
+
+1. Charter Schools have much higher pass rates than district schools. This is shown in the top schools and bottom schools dataframes, where Charter Schools have the 5 highest pass rates, and district schools have the 5 lowest pass rates. 
+
+2. Charter Schools have much lower Student Counts, so it suggests a smaller student population creates a better environment for success. Surprisingly, the per capita spending at Charter schools is about the same as the district schools, so that reinforces the idea that smaller student population has a higher impact on student success than other factors such as the per capita spending. 
